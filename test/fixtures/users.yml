@@ -3,5 +3,5 @@ jonathan:
   last_name: "Chhabra"
   email: "Sonicrida@gmail.com"
   profile_name: "Sonicrida"
-  password: "password"
-  password_confirmation: "password"
+  encrypted_password: "password"
+  #encrypted_password_confirmation: "password"
